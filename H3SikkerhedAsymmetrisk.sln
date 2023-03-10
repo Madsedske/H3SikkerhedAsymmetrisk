@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "H3SikkerhedAsymmetrisk", "H3SikkerhedAsymmetrisk\H3SikkerhedAsymmetrisk.csproj", "{2BC8ED59-B117-46A5-972F-FB61B060DD78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reciever", "Reciever\Reciever.csproj", "{BEF1B49C-EBA0-4E33-BC56-7F3E55DE55AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BC8ED59-B117-46A5-972F-FB61B060DD78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BC8ED59-B117-46A5-972F-FB61B060DD78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BC8ED59-B117-46A5-972F-FB61B060DD78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BC8ED59-B117-46A5-972F-FB61B060DD78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEF1B49C-EBA0-4E33-BC56-7F3E55DE55AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEF1B49C-EBA0-4E33-BC56-7F3E55DE55AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEF1B49C-EBA0-4E33-BC56-7F3E55DE55AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEF1B49C-EBA0-4E33-BC56-7F3E55DE55AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {008F705E-CDF1-4F6D-A646-63E7D1FFAD60}
+	EndGlobalSection
+EndGlobal
